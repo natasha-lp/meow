@@ -1,0 +1,12 @@
+body{font-family: Arial, Helvetica, sans-serif; background-color: lightgray; color: cadetblue ;}
+h1{text-align: center; color: blue; background-color: beige; text-decoration: underline; padding: 20px;}
+.abc{color: black; text-decoration: underline;}
+img.rst{margin-left: 43%; margin-top:0px; margin-right: 0px; margin-bottom: 0px; padding: 20px; width: 10%; height: 10%; border: 5px solid; border-color: black; padding:20px; }
+img.rst:hover{border-color:black; width:15%; height:15%;}
+p{margin-top: 0px; margin-bottom: 20px; padding: 20px; background-color: bisque; text-align: justify; border-style: solid; border-width: 4px; border-color: black; color: crimson;} 
+ul {list-style-type: lower-roman;}
+.pqr{color: crimson; margin-bottom: 10px; line-height: 30px;}
+.pqr:hover {color: purple;}
+a.mno {color: blue; margin-left: 30%;}
+.mno:hover {color: darkslateblue;}
+body {background-image: url('kitty1.c.jpg');background-size: cover; background-position: center; background-repeat: no-repeat;}
